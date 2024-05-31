@@ -9,7 +9,7 @@
 
 <!-- GIFT -->
 <div align="center" style=" width: 100%">
-  <img  src="/Contributions.webp"
+  <img  src="/Portada.png"
        alt="Contributions" /></a>
 </div>
 
