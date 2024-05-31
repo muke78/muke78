@@ -1,35 +1,36 @@
-<!--Presentation-->
+<!-- Presentation -->
 <div id="user-content-toc">
   <ul align="center">
-    <h1 style="display: inline-block">Hola soy Erick ( ﾉ ﾟｰﾟﾉ), Desarrollador Web JR</h1>
+    <h1 style="display: inline-block;">¡Hola, soy Erick! ( ﾉ ﾟｰﾟﾉ) Desarrollador Web JR</h1>
   </ul>
 </div>
 
-<!-- GIFT -->
-<div align="center" style=" width: 100%">
-  <img  src="/github-contribution-grid-snake-dark.svg"
-       alt="Contributions" /></a>
+<!-- GIF -->
+<div align="center" style="width: 100%;">
+  <img src="/github-contribution-grid-snake-dark.svg" alt="Contributions" />
 </div>
 
-<div style="display:flex">
-Ingeniero en Tecnologías de la Información con experiencia en desarrollo de bases de datos y aplicaciones web (JavaScript, TypeScript, React, MySQL,
-Python 🐍, PHP 🐘, y Power BI. 📈)
+<!-- About Me -->
+<div style="margin-top: 20px; text-align: center;">
+  <p>Ingeniero en Tecnologías de la Información con experiencia en desarrollo de bases de datos y aplicaciones web. Manejo de tecnologías como JavaScript, TypeScript, React, MySQL, Python 🐍, PHP 🐘 y Power BI 📈.</p>
+  <p>Estoy interesado en seguir aprendiendo sobre back-end, servicios y front-end para hacer mis aplicaciones más escalables 📶. Quiero ampliar mis habilidades en el desarrollo de aplicaciones móviles y de escritorio, siguiendo las mejores prácticas ❇️.</p>
 </div>
 
-<div style="display:flex">
-Tengo interés en seguir aprendiendo más sobre back-end, servicios, y front-end para hacer mis aplicaciones más escalables 📶. Quiero ampliar mis habilidades en el desarrollo de aplicaciones móviles y de escritorio, siguiendo las mejores prácticas ❇️.</div>
-
+<!-- Skills -->
 ## 📗 Front-end y páginas de aterrizaje
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-## Back-end y Microservicios
+## 🔃 Back-end y Microservicios
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -47,18 +48,18 @@ Tengo interés en seguir aprendiendo más sobre back-end, servicios, y front-end
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-## Servicios en la nube
+## ☁️ Servicios en la nube
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Github](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
-## Diseño y maquetado
+## 🖌️ Diseño y maquetado
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Analisis de datos
+## 🔣 Analisis de datos
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
