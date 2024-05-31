@@ -9,7 +9,7 @@
 
 <!-- GIFT -->
 <div align="center" style=" width: 100%">
-  <img  src="/Portada.png"
+  <img  src="/github-contribution-grid-snake-dark.svg"
        alt="Contributions" /></a>
 </div>
 
