@@ -13,7 +13,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"><i>Ten mucha paciencia contigo mismo y no te compares demasiado con los demás</i></h2></summary>
+    <summary><h2 style="display: inline-block"><i>`Ten mucha paciencia contigo mismo y no te compares demasiado con los demás`</i></h2></summary>
   </ul>
 </div>
 
