@@ -41,6 +41,7 @@
 ![Styled-Componets](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Leaflet](https://img.shields.io/badge/leaflet-%2331a354.svg?style=for-the-badge&logo=leaflet&logoColor=white)
 
 ## 🔃 Back-end y Microservicios
 
