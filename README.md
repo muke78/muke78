@@ -19,8 +19,8 @@
 
 <!-- About Me -->
 <div style="margin-top: 20px; text-align: center;">
-  <p>Ingeniero en Tecnologías de la Información con experiencia en desarrollo de bases de datos y aplicaciones web. Manejo de tecnologías como JavaScript, TypeScript, React, MySQL, Python 🐍, PHP 🐘 y Power BI 📈.</p>
-  <p>Estoy interesado en seguir aprendiendo sobre back-end, servicios y front-end para hacer mis aplicaciones más escalables 📶. Quiero ampliar mis habilidades en el desarrollo de aplicaciones móviles y de escritorio, siguiendo las mejores prácticas ❇️.</p>
+  <p>Ingeniero en Tecnologías de la Información con experiencia en desarrollo de bases de datos y aplicaciones web. Manejo de tecnologías como JavaScript 🇯‌🇸‌, TypeScript 🔣, React ⚛, MySQL 🐬, Python 🐍, PHP 🐘 y Power BI 📈.</p>
+  <p>Estoy interesado en seguir aprendiendo sobre back-end, servicios y front-end para hacer mis aplicaciones más escalables 📶. Quiero ampliar mis habilidades en el desarrollo de aplicaciones móviles 📱 y de escritorio 💻, siguiendo las mejores prácticas ❇️.</p>
 </div>
 
 <!-- Skills -->
