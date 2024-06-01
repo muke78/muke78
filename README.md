@@ -10,6 +10,13 @@
   <img src="/github-contribution-grid-snake-dark.svg" alt="Contributions" />
 </div>
 
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"><i>Ten mucha paciencia contigo mismo y no te compares demasiado con los demás</i></h2></summary>
+  </ul>
+</div>
+
 <!-- About Me -->
 <div style="margin-top: 20px; text-align: center;">
   <p>Ingeniero en Tecnologías de la Información con experiencia en desarrollo de bases de datos y aplicaciones web. Manejo de tecnologías como JavaScript, TypeScript, React, MySQL, Python 🐍, PHP 🐘 y Power BI 📈.</p>
