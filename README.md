@@ -8,17 +8,17 @@
   <img src="/github-contribution-grid-snake-dark.svg" alt="Contributions" width="100%" />
 </div>
 
+<!-- Personal Quote -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"><i>`Ten mucha paciencia contigo mismo y no te compares demasiado con los demás`</i></h2></summary>
+  </ul>
+</div>
+
 <!-- About Me -->
 <div align="center" style="margin-top: 20px;">
   <p>Soy Ingeniero en Tecnologías de la Información con experiencia en desarrollo de bases de datos y aplicaciones web. Me especializo en JavaScript 🇯‌🇸‌, TypeScript 🔣, React ⚛, MySQL 🐬, Python 🐍, PHP 🐘 y Power BI 📈.</p>
   <p>Busco expandir mis habilidades en el desarrollo back-end, servicios y front-end para crear aplicaciones más escalables 📶. Además, tengo interés en el desarrollo de aplicaciones móviles 📱 y de escritorio 💻, siempre siguiendo las mejores prácticas ❇️.</p>
-</div>
-
-<!-- Personal Quote -->
-<div align="center" style="margin-top: 20px;">
-  <details>
-    <summary><strong><em>"Ten mucha paciencia contigo mismo y no te compares demasiado con los demás"</em></strong></summary>
-  </details>
 </div>
 
 <!-- Skills -->
@@ -111,12 +111,9 @@
 
 ---
 
-## 📌 Por venir
+## 🎓 Por aprender
 
 <table style="margin: 0 auto;">
-  <tr>
-    <th colspan=10 > 🎓 Por aprender</th>
-  </tr>
   <tr>
     <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=nestjs" alt="Nestjs"></td>
     <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs"></td>
