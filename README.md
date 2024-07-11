@@ -1,6 +1,6 @@
 <!-- Presentation -->
 <div align="center">
-  <h1>¡Hola, soy Erick! ( ﾉ ﾟｰﾟﾉ) Desarrollador Web JR</h1>
+  <h1>¡Hola, soy Erick! Desarrollador Web </h1>
 </div>
 
 <!-- GIF -->
@@ -25,108 +25,39 @@
 
 ## 📗 Front-end y páginas de aterrizaje
 
-<table style="margin: 0 auto;">
-  <tr>
-    <th colspan=6 > 💻 Lenguajes y tecnologías principales</th>
-    <th colspan=6 > 📚 Frameworks y bibliotecas</th>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=html" alt="HTML5"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=css" alt="CSS3"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=php" alt="PHP"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=vite" alt="Vite"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=react" alt="React"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=astro" alt="Astro"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=sass" alt="SASS"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components"></td>
-    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=chartjs" alt="ChartJs"></td>
-    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=leaflet" alt="Leaflet"></td>
-  </tr>
-</table>
+| 💻 Lenguajes y tecnologías principale | 📚 Frameworks y bibliotecas |
+| ---------------------------------------|-----------------------------|
+|<img src="https://skillicons.dev/icons?i=html" alt="HTML5"> <img src="https://skillicons.dev/icons?i=css" alt="CSS3"> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"> <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"> <img src="https://skillicons.dev/icons?i=php" alt="PHP"> <img src="https://skillicons.dev/icons?i=vite" alt="Vite"> | <img src="https://skillicons.dev/icons?i=react" alt="React"> <img src="https://skillicons.dev/icons?i=astro" alt="Astro"> <img src="https://skillicons.dev/icons?i=sass" alt="SASS"> <img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components"> <img src="https://go-skill-icons.vercel.app/api/icons?i=chartjs" alt="ChartJs"> <img src="https://go-skill-icons.vercel.app/api/icons?i=leaflet" alt="Leaflet">
 
-<table>
-  <tr>
-    <th colspan=2 > ✅ Pruebas y testing</th>
-    <th colspan=2 > 🎨 Componentes UI</th>
-    <th colspan=3 > 📦 Gestores de paquetes para JavaScript</th>
-    <th colspan=2 > 🖌️ Diseño y maquetado</th>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=jest" alt="Jest"></td>
-    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=testinglibrary" alt="Testing Library"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=mui" alt="MUI"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"></td>
-    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=pnpm" alt="pnpm"></td>
-    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=npm" alt="npm"></td>
-    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=yarn" alt="yarn"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=ps" alt="Photoshop"></td>
-  </tr>
-</table>
+| ✅ Pruebas y testing | 🎨 Componentes UI | 📦 Gestores de paquetes | 🖌️ Diseño y maquetado |
+|----------------------|--------------------|--------------------------|-----------------------|
+|<img src="https://go-skill-icons.vercel.app/api/icons?i=jest" alt="Jest"> <img src="https://go-skill-icons.vercel.app/api/icons?i=testinglibrary" alt="Testing Library"> | <img src="https://skillicons.dev/icons?i=mui" alt="MUI"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=pnpm" alt="pnpm"> <img src="https://go-skill-icons.vercel.app/api/icons?i=npm" alt="npm"> <img src="https://go-skill-icons.vercel.app/api/icons?i=yarn" alt="yarn"> | <img src="https://skillicons.dev/icons?i=figma" alt="Figma"> <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop">
+
 
 ---
 
 ## 🔃 Back-end y Microservicios
 
-<table style="margin: 0 auto;">
-  <tr>
-    <th colspan=5 > 💻 Lenguajes y frameworks</th>
-    <th colspan=7 > 🗃️ Bases de datos y herramientas</th>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=java" alt="Java"></td>
-    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="NodeJs"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=python" alt="Python"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=express" alt="Express.js"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=postgres" alt="Postgres"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></td>
-    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" alt="SQL Server"></td>
-    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="Git"></td>
-    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=authjs" alt="AuthJs"></td>
-  </tr>
-</table>
+| 💻 Lenguajes y frameworks | 🗃️ Bases de datos y herramientas |
+|---------------------------|-----------------------------------|
+|<img src="https://skillicons.dev/icons?i=java" alt="Java"> <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="NodeJs"> <img src="https://skillicons.dev/icons?i=python" alt="Python"> <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda"> <img src="https://skillicons.dev/icons?i=express" alt="Express.js"> | <img src="https://skillicons.dev/icons?i=postman" alt="Postman"> <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase"> <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"> <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" alt="SQL Server"> <img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="Git"> <img src="https://go-skill-icons.vercel.app/api/icons?i=authjs" alt="AuthJs">
 
 ---
 
 ## 🛜 Alojamiento web
 
-<table style="margin: 0 auto;">
-  <tr>
-    <th colspan="4">☁️ Servicios en la nube</th>
-    <th colspan="1"> 🔣 Análisis de datos</th>
-  </tr>
-  <tr>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=github" alt="GitHub Pages"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"></td>
-     <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify"></td>
-    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=pbi" alt="PowerBI"></td>
-  </tr>
-</table>
+| ☁️ Servicios en la nube | 🔣 Análisis de datos |
+|-------------------------|-----------------------|
+|<img src="https://skillicons.dev/icons?i=aws" alt="AWS"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub Pages"> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"> <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi" alt="PowerBI">
+
 
 ---
 
 ## 🎓 Por aprender
 
-<table style="margin: 0 auto;">
-  <tr>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=nestjs" alt="Nestjs"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=vue" alt="Vue"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=angular" alt="Angular"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=kubernetes" alt="}Kubernetes"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=docker" alt="}Docker"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=mongodb" alt="}MongoDB"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=graphql" alt="}Graphql"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=dotnet" alt="}Dotnet"></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=tailwindcss" alt="}Tailwindcss"></td>
-  </tr>
-</table>
+| 🔄️ En proceso |
+|---------------|
+| <img src="https://skillicons.dev/icons?i=nestjs" alt="Nestjs"> <img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs"> <img src="https://skillicons.dev/icons?i=vue" alt="Vue"> <img src="https://skillicons.dev/icons?i=angular" alt="Angular"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"> <img src="https://skillicons.dev/icons?i=docker" alt="Docker"> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"> <img src="https://skillicons.dev/icons?i=graphql" alt="Graphql"> <img src="https://skillicons.dev/icons?i=dotnet" alt="Dotnet"> <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwindcss">
 
 # 📊 GitHub Stats:
 
