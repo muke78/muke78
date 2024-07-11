@@ -17,8 +17,8 @@
 
 <!-- About Me -->
 <div align="center" style="margin-top: 20px;">
-  <p style="font-size: 18px">Soy Ingeniero en Tecnologías de la Información con experiencia en desarrollo de bases de datos y aplicaciones web. Me especializo en JavaScript 🇯‌🇸‌, TypeScript 🔣, React ⚛, MySQL 🐬, Python 🐍, PHP 🐘 y Power BI 📈.</p>
-  <p style="font-size: 18px">>Busco expandir mis habilidades en el desarrollo back-end, servicios y front-end para crear aplicaciones más escalables 📶. Además, tengo interés en el desarrollo de aplicaciones móviles 📱 y de escritorio 💻, siempre siguiendo las mejores prácticas ❇️.</p>
+  <p style="font-size: 20px">Soy Ingeniero en Tecnologías de la Información con experiencia en desarrollo de bases de datos y aplicaciones web. Me especializo en JavaScript 🇯‌🇸‌, TypeScript 🔣, React ⚛, MySQL 🐬, Python 🐍, PHP 🐘 y Power BI 📈.</p>
+  <p style="font-size: 20px">Busco expandir mis habilidades en el desarrollo back-end, servicios y front-end para crear aplicaciones más escalables 📶. Además, tengo interés en el desarrollo de aplicaciones móviles 📱 y de escritorio 💻, siempre siguiendo las mejores prácticas ❇️.</p>
 </div>
 
 <!-- Skills -->
