@@ -1,80 +1,137 @@
 <!-- Presentation -->
-<div id="user-content-toc">
-  <ul align="center">
-    <h1 style="display: inline-block;">¡Hola, soy Erick! ( ﾉ ﾟｰﾟﾉ) Desarrollador Web JR</h1>
-  </ul>
+<div align="center">
+  <h1>¡Hola, soy Erick! ( ﾉ ﾟｰﾟﾉ) Desarrollador Web JR</h1>
 </div>
 
 <!-- GIF -->
-<div align="center" style="width: 100%;">
-  <img src="/github-contribution-grid-snake-dark.svg" alt="Contributions" />
-</div>
-
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"><i>`Ten mucha paciencia contigo mismo y no te compares demasiado con los demás`</i></h2></summary>
-  </ul>
+<div align="center">
+  <img src="/github-contribution-grid-snake-dark.svg" alt="Contributions" width="100%" />
 </div>
 
 <!-- About Me -->
-<div style="margin-top: 20px; text-align: center;">
-  <p>Ingeniero en Tecnologías de la Información con experiencia en desarrollo de bases de datos y aplicaciones web. Manejo de tecnologías como JavaScript 🇯‌🇸‌, TypeScript 🔣, React ⚛, MySQL 🐬, Python 🐍, PHP 🐘 y Power BI 📈.</p>
-  <p>Estoy interesado en seguir aprendiendo sobre back-end, servicios y front-end para hacer mis aplicaciones más escalables 📶. Quiero ampliar mis habilidades en el desarrollo de aplicaciones móviles 📱 y de escritorio 💻, siguiendo las mejores prácticas ❇️.</p>
+<div align="center" style="margin-top: 20px;">
+  <p>Soy Ingeniero en Tecnologías de la Información con experiencia en desarrollo de bases de datos y aplicaciones web. Me especializo en JavaScript 🇯‌🇸‌, TypeScript 🔣, React ⚛, MySQL 🐬, Python 🐍, PHP 🐘 y Power BI 📈.</p>
+  <p>Busco expandir mis habilidades en el desarrollo back-end, servicios y front-end para crear aplicaciones más escalables 📶. Además, tengo interés en el desarrollo de aplicaciones móviles 📱 y de escritorio 💻, siempre siguiendo las mejores prácticas ❇️.</p>
+</div>
+
+<!-- Personal Quote -->
+<div align="center" style="margin-top: 20px;">
+  <details>
+    <summary><strong><em>"Ten mucha paciencia contigo mismo y no te compares demasiado con los demás"</em></strong></summary>
+  </details>
 </div>
 
 <!-- Skills -->
 
 ## 📗 Front-end y páginas de aterrizaje
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Styled-Componets](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Leaflet](https://img.shields.io/badge/leaflet-%2331a354.svg?style=for-the-badge&logo=leaflet&logoColor=white)
+<table style="margin: 0 auto;">
+  <tr>
+    <th colspan=6 > 💻 Lenguajes y tecnologías principales</th>
+    <th colspan=6 > 📚 Frameworks y bibliotecas</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=html" alt="HTML5"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=css" alt="CSS3"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=php" alt="PHP"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=vite" alt="Vite"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=react" alt="React"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=astro" alt="Astro"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=sass" alt="SASS"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components"></td>
+    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=chartjs" alt="ChartJs"></td>
+    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=leaflet" alt="Leaflet"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan=2 > ✅ Pruebas y testing</th>
+    <th colspan=2 > 🎨 Componentes UI</th>
+    <th colspan=3 > 📦 Gestores de paquetes para JavaScript</th>
+    <th colspan=2 > 🖌️ Diseño y maquetado</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=jest" alt="Jest"></td>
+    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=testinglibrary" alt="Testing Library"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=mui" alt="MUI"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"></td>
+    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=pnpm" alt="pnpm"></td>
+    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=npm" alt="npm"></td>
+    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=yarn" alt="yarn"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=ps" alt="Photoshop"></td>
+  </tr>
+</table>
+
+---
 
 ## 🔃 Back-end y Microservicios
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+<table style="margin: 0 auto;">
+  <tr>
+    <th colspan=5 > 💻 Lenguajes y frameworks</th>
+    <th colspan=7 > 🗃️ Bases de datos y herramientas</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=java" alt="Java"></td>
+    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="NodeJs"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=python" alt="Python"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=express" alt="Express.js"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=postgres" alt="Postgres"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></td>
+    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" alt="SQL Server"></td>
+    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="Git"></td>
+    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=authjs" alt="AuthJs"></td>
+  </tr>
+</table>
 
-## ☁️ Servicios en la nube
+---
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Github](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+## 🛜 Alojamiento web
 
-## 🖌️ Diseño y maquetado
+<table style="margin: 0 auto;">
+  <tr>
+    <th colspan="4">☁️ Servicios en la nube</th>
+    <th colspan="1"> 🔣 Análisis de datos</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=github" alt="GitHub Pages"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"></td>
+     <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify"></td>
+    <td style="text-align: center;"><img src="https://go-skill-icons.vercel.app/api/icons?i=pbi" alt="PowerBI"></td>
+  </tr>
+</table>
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+---
 
-## 🔣 Analisis de datos
+## 📌 Por venir
 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<table style="margin: 0 auto;">
+  <tr>
+    <th colspan=10 > 🎓 Por aprender</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=nestjs" alt="Nestjs"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=nextjs" alt="Nextjs"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=vue" alt="Vue"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=angular" alt="Angular"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=kubernetes" alt="}Kubernetes"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=docker" alt="}Docker"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=mongodb" alt="}MongoDB"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=graphql" alt="}Graphql"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=dotnet" alt="}Dotnet"></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=tailwindcss" alt="}Tailwindcss"></td>
+  </tr>
+</table>
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muke78&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=muke78&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muke78&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<img src="https://github-profile-trophy.vercel.app/?username=muke78&theme=dracula&no-frame=true&no-bg=true&margin-w=4">
