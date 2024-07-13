@@ -58,10 +58,11 @@
 |---------------|
 | <img src="https://skillicons.dev/icons?i=nestjs,nextjs,vue,angular,kubernetes,docker,mongodb,graphql,dotnet,tailwindcss">
 
+
 <details>
   <summary><h2>My Github Stats</h2></summary>
     <figure>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muke78&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-      <img src="https://github-profile-trophy.vercel.app/?username=muke78&theme=dracula&no-frame=true&no-bg=true&margin-w=4">
+      <img src="https://github-profile-trophy.vercel.app/?username=muke78&theme=radical&no-frame=false&no-bg=true&margin-w=4">
     </figure>
 </details>
