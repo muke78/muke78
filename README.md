@@ -56,7 +56,7 @@
 
 | 🔄️ En proceso |
 |---------------|
-| <img src="https://skillicons.dev/icons?i=nestjs,nextjs,vue,angular,kubernetes,docker,mongodb,graphql,dotnet,tailwindcss">
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,nextjs,vue,angular,kubernetes,docker,mongodb,graphql,dotnet,tailwindcss">
 
 
 <details>
