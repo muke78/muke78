@@ -17,7 +17,7 @@
 
 <!-- About Me -->
 <div align="center" style="margin-top: 20px;">
-  <p style="font-size: 20px">Soy un ingeniero en tecnologías de la información con un año de experiencia en servicios de TI. Manejo JavaScript, TypeScript, HTML y CSS, además de herramientas de testeo como Jest y Testing Library. He trabajado con React, Astro, Chart.js y bibliotecas de mapas, así como con backend en Node.js y Express. También tengo experiencia con empaquetadores (PNPM, Yarn, NPM), bases de datos (Supabase, PostgreSQL, SQL), servicios en la nube (AWS, Firebase, Netlify, GitHub Pages) y control de versiones con Git y GitHub. Además, realizo análisis de datos en Power BI.</p>
+  <p style="font-size: 20px">Soy un ingeniero en tecnologías de la información con 2 años de experiencia en servicios de IT. Manejo JavaScript, TypeScript, HTML y CSS, además de herramientas de testeo como Jest y Testing Library. He trabajado con React, Astro, Chart.js y bibliotecas de mapas, así como con backend en Node.js y Express. También tengo experiencia con empaquetadores (PNPM, Yarn, NPM), bases de datos (Supabase, PostgreSQL, SQL), servicios en la nube (AWS, Firebase, Netlify, GitHub Pages) y control de versiones con Git y GitHub. Además, realizo análisis de datos en Power BI.</p>
   <p style="font-size: 20px">Busco expandir mis habilidades en el desarrollo back-end, servicios y front-end para crear aplicaciones más escalables 📶. Además, tengo interés en el desarrollo de aplicaciones móviles 📱 y de escritorio 💻, siempre siguiendo las mejores prácticas ❇️.</p>
 </div>
 
