@@ -86,5 +86,5 @@
 
 <div align="center" style="display: flex; justify-content: center;">
     <img height="195px" src='https://github-readme-stats.vercel.app/api?username=muke78&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false'/>
-    <img height="195px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=muke78&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact'/>
+    <img height="195px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=muke78&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact'/>
 </div>
