@@ -52,7 +52,7 @@
 
 | 💻 Lenguajes y tecnologías principale                                                             | 📚 Frameworks y bibliotecas                                                                                 |
 | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,php,vite"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=react,astro,sass,styledcomponents,chartjs,leaflet"> |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,php,vite"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=react,astro,sass,styledcomponents,chartjs,leaflet"> |
 
 | ✅ Pruebas y testing                                                          | 🎨 Componentes UI                                                       | 📦 Gestores de paquetes                                                 | 🖌️ Diseño y maquetado                                              |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------ |
@@ -80,7 +80,7 @@
 
 | 🔄️ En proceso |
 | -------------- |
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,nextjs,vue,angular,kubernetes,docker,mongodb,graphql,dotnet,tailwindcss"> 
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,typescript,nextjs,vue,angular,kubernetes,docker,mongodb,graphql,dotnet,tailwindcss"> 
 
 ## Github Stats
 
