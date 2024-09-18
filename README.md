@@ -11,12 +11,12 @@
 
 <!-- About Me -->
 <div style="margin-top: 20px">
-  <span style="display: flex; font-size: 30px; margin-bottom: 20px">
+  <div style="display: flex; font-size: 30px; margin-bottom: 20px">
       <i>
         `Ten mucha paciencia contigo mismo y no te compares demasiado con los
         demás`
       </i>
-    </span>
+    </div>
  <img
     src="https://64.media.tumblr.com/cb1a6d28f1f97fe56c0764cdf40fc92c/d662df3b2e19bcdc-c5/s540x810/1d8b292967d40c6c00663f2ce51de270d366994c.gifv"
     alt="Pixel Art" align="right"
