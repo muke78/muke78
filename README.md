@@ -73,7 +73,6 @@ He trabajado con **React**, **Astro**, **Chart.js** y bibliotecas de mapas, así
 
 | 🔄️ En proceso |
 | -------------- |
-
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,typescript,nextjs,vue,angular,kubernetes,docker,mongodb,graphql,dotnet,tailwindcss">
 
 ## 📊 Github Stats
