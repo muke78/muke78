@@ -10,16 +10,21 @@
 <!-- Personal Quote -->
 
 <!-- About Me -->
-<div style="margin-top: 20px">
-  <div style="display: flex; font-size: 30px; margin-bottom: 20px">
-      <i>
-        `Ten mucha paciencia contigo mismo y no te compares demasiado con los
-        demás`
-      </i>
-    </div>
- <img
+<div style="margin-top: 20px; margin-bottom: 20px">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-block">
+        <i>
+          `Ten mucha paciencia contigo mismo y no te compares demasiado con los
+          demás`
+        </i>
+      </h2>
+    </summary>
+  </ul>
+  <img
     src="https://64.media.tumblr.com/cb1a6d28f1f97fe56c0764cdf40fc92c/d662df3b2e19bcdc-c5/s540x810/1d8b292967d40c6c00663f2ce51de270d366994c.gifv"
-    alt="Pixel Art" align="right"
+    alt="Pixel Art"
+    align="right"
     width="400"
   />
   <p style="font-size: 20px">
@@ -39,6 +44,7 @@
     siguiendo las mejores prácticas ❇️.
   </p>
 </div>
+
 
 <!-- Skills -->
 
@@ -75,7 +81,7 @@
 | 🔄️ En proceso |
 | -------------- |
 
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,nextjs,vue,angular,kubernetes,docker,mongodb,graphql,dotnet,tailwindcss">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,nextjs,vue,angular,kubernetes,docker,mongodb,graphql,dotnet,tailwindcss">
 
 ## Github Stats
 
