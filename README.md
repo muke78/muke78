@@ -10,13 +10,13 @@
 <!-- Personal Quote -->
 
 <!-- About Me -->
-<div align="center" style="margin-top: 20px">
-  <h2 style="display: flex">
+<div style="margin-top: 20px">
+  <span style="display: flex; font-size: 30px; margin-bottom: 20px">
       <i>
         `Ten mucha paciencia contigo mismo y no te compares demasiado con los
         demás`
       </i>
-    </h2>
+    </span>
  <img
     src="https://64.media.tumblr.com/cb1a6d28f1f97fe56c0764cdf40fc92c/d662df3b2e19bcdc-c5/s540x810/1d8b292967d40c6c00663f2ce51de270d366994c.gifv"
     alt="Pixel Art" align="right"
@@ -79,5 +79,7 @@
 
 ## Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=muke78&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muke78&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center" style="display: flex; justify-content: center;">
+    <img height="195px" src='https://github-readme-stats.vercel.app/api?username=muke78&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false'/>
+    <img height="195px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=muke78&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact'/>
+</div>
