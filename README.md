@@ -1,6 +1,6 @@
 <!-- Presentation -->
 
-[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Monserrat&size=22&pause=1000&color=919FFF&background=0D1117DD&width=520&lines=%C2%A1Hola+soy+Erick!+Desarrollador+Web+%F0%9F%92%BB;Bienvenido+a+mi+perfil+de+Github+%F0%9F%91%8B;%3CLambda(%CE%BB)%2F%3E>)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monserrat&size=24&pause=1000&color=919FFF&width=520&lines=Hola+%F0%9F%91%8B+soy+Erick+Desarrollador+Web+%F0%9F%92%BB;%E2%9D%84%EF%B8%8F%F0%9F%8E%A8;%3CLambda(%CE%BB)%2F%3E)](https://git.io/typing-svg)
 
 <!-- GIF -->
 <!-- <div align="center">
@@ -25,33 +25,26 @@
     src="https://64.media.tumblr.com/cb1a6d28f1f97fe56c0764cdf40fc92c/d662df3b2e19bcdc-c5/s540x810/1d8b292967d40c6c00663f2ce51de270d366994c.gifv"
     alt="Pixel Art"
     align="right"
-    width="400"
+    width="600"
   />
-  <p style="font-size: 20px">
-    Soy un ingeniero en tecnologías de la información con 2 años de experiencia
-    en servicios de IT. Manejo JavaScript, TypeScript, HTML y CSS, además de
-    herramientas de testeo como Jest y Testing Library. He trabajado con React,
-    Astro, Chart.js y bibliotecas de mapas, así como con backend en Node.js y
-    Express. También tengo experiencia con empaquetadores (PNPM, Yarn, NPM),
-    bases de datos (Supabase, PostgreSQL, SQL), servicios en la nube (AWS,
-    Firebase, Netlify, GitHub Pages) y control de versiones con Git y GitHub.
-    Además, realizo análisis de datos en Power BI.
-  </p>
-  <p style="font-size: 20px">
-    Busco expandir mis habilidades en el desarrollo back-end, servicios y
-    front-end para crear aplicaciones más escalables 📶. Además, tengo interés
-    en el desarrollo de aplicaciones móviles 📱 y de escritorio 💻, siempre
-    siguiendo las mejores prácticas ❇️.
-  </p>
-</div>
+ <!-- Descripción personal con espaciado adecuado -->
 
+## Sobre mí
+
+Soy un ingeniero en tecnologías de la información con 2 años de experiencia en servicios de IT. Manejo **JavaScript**, **TypeScript**, **HTML** y **CSS**, además de herramientas de testeo como **Jest** y **Testing Library**.
+
+He trabajado con **React**, **Astro**, **Chart.js** y bibliotecas de mapas, así como con backend en **Node.js** y **Express**. También tengo experiencia con empaquetadores como **PNPM**, **Yarn**, y **NPM**, bases de datos como **Supabase**, **PostgreSQL** y **SQL**, y servicios en la nube como **AWS**, **Firebase**, **Netlify** y **GitHub Pages**.
+
+**Busco expandir mis habilidades en el desarrollo back-end, servicios y front-end** para crear aplicaciones más escalables 📶. Además, tengo interés en el desarrollo de **aplicaciones móviles** 📱 y de **escritorio** 💻, siempre siguiendo las mejores prácticas ❇️.
+
+</div>
 
 <!-- Skills -->
 
 ## 📗 Front-end y páginas de aterrizaje
 
-| 💻 Lenguajes y tecnologías principale                                                             | 📚 Frameworks y bibliotecas                                                                                 |
-| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 💻 Lenguajes y tecnologías principale                                                  | 📚 Frameworks y bibliotecas                                                                                 |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,php,vite"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=react,astro,sass,styledcomponents,chartjs,leaflet"> |
 
 | ✅ Pruebas y testing                                                          | 🎨 Componentes UI                                                       | 📦 Gestores de paquetes                                                 | 🖌️ Diseño y maquetado                                              |
@@ -80,7 +73,8 @@
 
 | 🔄️ En proceso |
 | -------------- |
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,typescript,nextjs,vue,angular,kubernetes,docker,mongodb,graphql,dotnet,tailwindcss"> 
+
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,typescript,nextjs,vue,angular,kubernetes,docker,mongodb,graphql,dotnet,tailwindcss">
 
 ## 📊 Github Stats
 
