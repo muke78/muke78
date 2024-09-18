@@ -2,22 +2,6 @@
 
 [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Monserrat&size=22&pause=1000&color=919FFF&background=0D1117DD&width=520&lines=%C2%A1Hola+soy+Erick!+Desarrollador+Web+%F0%9F%92%BB;Bienvenido+a+mi+perfil+de+Github+%F0%9F%91%8B;%3CLambda(%CE%BB)%2F%3E>)](https://git.io/typing-svg)
 
-<div style="display: flex; justify-content: space-between">
-  <div>
-    <h2 style="display: flex">
-      <i>
-        `Ten mucha paciencia contigo mismo y no te compares demasiado con los
-        demás`
-      </i>
-    </h2>
-  </div>
-  <img
-    src="https://64.media.tumblr.com/cb1a6d28f1f97fe56c0764cdf40fc92c/d662df3b2e19bcdc-c5/s540x810/1d8b292967d40c6c00663f2ce51de270d366994c.gifv"
-    alt="Pixel Art"
-    width="400"
-  />
-</div>
-
 <!-- GIF -->
 <!-- <div align="center">
   <img src="/github-contribution-grid-snake-dark.svg" alt="Contributions" width="100%" />
@@ -27,6 +11,17 @@
 
 <!-- About Me -->
 <div align="center" style="margin-top: 20px">
+  <h2 style="display: flex">
+      <i>
+        `Ten mucha paciencia contigo mismo y no te compares demasiado con los
+        demás`
+      </i>
+    </h2>
+ <img
+    src="https://64.media.tumblr.com/cb1a6d28f1f97fe56c0764cdf40fc92c/d662df3b2e19bcdc-c5/s540x810/1d8b292967d40c6c00663f2ce51de270d366994c.gifv"
+    alt="Pixel Art" align="right"
+    width="400"
+  />
   <p style="font-size: 20px">
     Soy un ingeniero en tecnologías de la información con 2 años de experiencia
     en servicios de IT. Manejo JavaScript, TypeScript, HTML y CSS, además de
