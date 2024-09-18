@@ -82,7 +82,7 @@
 | -------------- |
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,typescript,nextjs,vue,angular,kubernetes,docker,mongodb,graphql,dotnet,tailwindcss"> 
 
-## Github Stats
+## 📊 Github Stats
 
 <div align="center" style="display: flex; justify-content: center;">
     <img height="195px" src='https://github-readme-stats.vercel.app/api?username=muke78&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false'/>
