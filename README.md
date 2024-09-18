@@ -29,7 +29,7 @@
   />
  <!-- Descripción personal con espaciado adecuado -->
 
-## Sobre mí
+### Sobre mí
 
 Soy un ingeniero en tecnologías de la información con 2 años de experiencia en servicios de IT. Manejo **JavaScript**, **TypeScript**, **HTML** y **CSS**, además de herramientas de testeo como **Jest** y **Testing Library**.
 
