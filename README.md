@@ -31,7 +31,7 @@
 
 ### Sobre mí
 
-Soy un ingeniero en tecnologías de la información con 2 años de experiencia en servicios de IT. Manejo **JavaScript**, **TypeScript**, **HTML** y **CSS**, además de herramientas de testeo como **Jest** y **Testing Library**.
+Soy un ingeniero en tecnologías de la información con 2 años de experiencia en servicios de IT. Manejo **JavaScript**, **HTML** y **CSS**, además de herramientas de testeo como **Jest** y **Testing Library**.
 
 He trabajado con **React**, **Astro**, **Chart.js** y bibliotecas de mapas, así como con backend en **Node.js** y **Express**. También tengo experiencia con empaquetadores como **PNPM**, **Yarn**, y **NPM**, bases de datos como **Supabase**, **PostgreSQL** y **SQL**, y servicios en la nube como **AWS**, **Firebase**, **Netlify** y **GitHub Pages**.
 
