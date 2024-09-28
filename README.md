@@ -57,7 +57,7 @@ He trabajado con **React**, **Astro**, **Chart.js** y bibliotecas de mapas, así
 
 | 💻 Lenguajes y frameworks                                                                     | 🗃️ Bases de datos y herramientas                                                                                       |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=java,nodejs,python,anaconda,express"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,supabase,postgres,mysql,sqlserver,git,authjs,zustand"> |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=java,nodejs,python,anaconda,express"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,supabase,postgres,mysql,sqlserver,git,authjs,zustand,swagger"> |
 
 ---
 
