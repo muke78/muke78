@@ -31,11 +31,14 @@
 
 ### Sobre mí
 
-Soy un ingeniero en tecnologías de la información con 2 años de experiencia en servicios de IT. Manejo **JavaScript**, **HTML** y **CSS**, además de herramientas de testeo como **Jest** y **Testing Library**.
-
-He trabajado con **React**, **Astro**, **Chart.js** y bibliotecas de mapas, así como con backend en **Node.js** y **Express**. También tengo experiencia con empaquetadores como **PNPM**, **Yarn**, y **NPM**, bases de datos como **Supabase**, **PostgreSQL** y **SQL**, y servicios en la nube como **AWS**, **Firebase**, **Netlify** y **GitHub Pages**.
-
-**Busco expandir mis habilidades en el desarrollo back-end, servicios y front-end** para crear aplicaciones más escalables 📶. Además, tengo interés en el desarrollo de **aplicaciones móviles** 📱 y de **escritorio** 💻, siempre siguiendo las mejores prácticas ❇️.
+Soy ingeniero en tecnologías de la información con 2 años de experiencia en desarrollo de 
+**bases de datos, frontend y backend.** Me especializo en la implementación de soluciones 
+con buenas prácticas de clean code y he trabajado en equipos utilizando metodologías ágiles 
+como **DevOps** y **Scrum** para gestionar el ciclo de vida de software. También cuento 
+con experiencia en tecnologías de análisis de datos y marcos de pruebas. Me considero una 
+persona **autodidacta**, siempre en busca de nuevos conocimientos y desafíos para mejorar 
+mis habilidades en desarrollo web o de software. 
+**Mi interés por la tecnología y la programación me impulsa a aprender y superar mis propios límites constantemente.**
 
 </div>
 
