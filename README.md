@@ -49,7 +49,7 @@ He trabajado con **React**, **Astro**, **Chart.js** y bibliotecas de mapas, así
 
 | ✅ Pruebas y testing                                                          | 🎨 Componentes UI                                                       | 📦 Gestores de paquetes                                                 | 🖌️ Diseño y maquetado                                              |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=jest,testinglibrary"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=mui,bootstrap"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=pnpm,npm,yarn"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps"> |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=jest,testinglibrary"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=mui,bootstrap,tailwindcss"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=pnpm,npm,yarn"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps"> |
 
 ---
 
@@ -65,7 +65,7 @@ He trabajado con **React**, **Astro**, **Chart.js** y bibliotecas de mapas, así
 
 | ☁️ Servicios en la nube                                                                         | 🔣 Análisis de datos                                                        |
 | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,github,firebase,netlify" alt="AWS"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi" alt="PowerBI"> |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,github,firebase,netlify,vercel" alt="AWS"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi" alt="PowerBI"> |
 
 ---
 
@@ -73,7 +73,7 @@ He trabajado con **React**, **Astro**, **Chart.js** y bibliotecas de mapas, así
 
 | 🔄️ En proceso |
 | -------------- |
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,typescript,nextjs,vue,angular,kubernetes,docker,mongodb,graphql,apollo,dotnet,tailwindcss">
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,typescript,nextjs,vue,angular,kubernetes,docker,mongodb,graphql,apollo,dotnet">
 
 ## 📊 Github Stats
 
