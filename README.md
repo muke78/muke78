@@ -1,6 +1,6 @@
 <!-- Presentation -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monserrat&size=24&pause=1000&color=919FFF&width=520&lines=Hola+%F0%9F%91%8B+soy+Erick+Desarrollador+Web+%F0%9F%92%BB;%E2%9D%84%EF%B8%8F%F0%9F%8E%A8;%3CLambda(%CE%BB)%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Monserrat&size=24&pause=1000&color=919FFF&width=520&lines=Hola+%F0%9F%91%8B+soy+Erick+Desarrollador+Web+%F0%9F%92%BB;%E2%9D%84%EF%B8%8F%F0%9F%8E%A8;%3CLambda(%CE%BB)%2F%3E>)](https://git.io/typing-svg)
 
 <!-- GIF -->
 <!-- <div align="center">
@@ -31,52 +31,39 @@
 
 ### Sobre mí
 
-Soy ingeniero en tecnologías de la información con 2 años de experiencia en desarrollo de 
-**bases de datos, frontend y backend.** Me especializo en la implementación de soluciones 
-con buenas prácticas de clean code y he trabajado en equipos utilizando metodologías ágiles 
-como **DevOps** y **Scrum** para gestionar el ciclo de vida de software. También cuento 
-con experiencia en tecnologías de análisis de datos y marcos de pruebas. Me considero una 
-persona **autodidacta**, siempre en busca de nuevos conocimientos y desafíos para mejorar 
-mis habilidades en desarrollo web o de software. 
-**Mi interés por la tecnología y la programación me impulsa a aprender y superar mis propios límites constantemente.**
+Soy ingeniero en tecnologías de la información con 2 años de experiencia en desarrollo de **bases de datos, frontend y backend**. 
+Me especializo en soluciones con **clean code** y he trabajado con metodologías ágiles como **DevOps** y **Scrum** para gestionar proyectos
+de software. Soy **autodidacta** y siempre estoy buscando nuevos desafíos para mejorar mis
+habilidades en desarrollo web y software.
+Mi interes por la tecnología me impulsa a aprender y superar mis propios límites constantemente.
 
 </div>
 
-<!-- Skills -->
+### Mi Portafolio
 
-## 📗 Front-end y páginas de aterrizaje
+<a href="https://portafolio-vercel-deploy.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Visita%20mi%20portafolio-00C4CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Mi Portafolio">
+</a>
 
-| 💻 Lenguajes y tecnologías principale                                                  | 📚 Frameworks y bibliotecas                                                                                 |
-| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,php,vite"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=react,astro,sass,styledcomponents,chartjs,leaflet"> |
 
-| ✅ Pruebas y testing                                                          | 🎨 Componentes UI                                                       | 📦 Gestores de paquetes                                                 | 🖌️ Diseño y maquetado                                              |
-| ----------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=jest,testinglibrary"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=mui,bootstrap,tailwindcss"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=pnpm,npm,yarn"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps"> |
 
----
+```javascript
+let imagine = true;
+let sleep;
 
-## 🔃 Back-end y Microservicios
+while (imagine) {
+  programing();
+  create();
 
-| 💻 Lenguajes y frameworks                                                                     | 🗃️ Bases de datos y herramientas                                                                                       |
-| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=java,nodejs,python,anaconda,express"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=postman,supabase,postgres,mysql,sqlserver,git,authjs,zustand,swagger"> |
+  if (sleep == true) {
+    imagine = false
+  }
+}
 
----
-
-## 🛜 Alojamiento web
-
-| ☁️ Servicios en la nube                                                                         | 🔣 Análisis de datos                                                        |
-| ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,github,firebase,netlify,vercel" alt="AWS"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=pbi" alt="PowerBI"> |
-
----
-
-## 🎓 Por aprender
-
-| 🔄️ En proceso |
-| -------------- |
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,typescript,nextjs,vue,angular,kubernetes,docker,mongodb,graphql,apollo,dotnet">
+const create = () => {
+  console.log("Si puedes imaginarlo puedes crearlo :)")
+};
+```
 
 ## 📊 Github Stats
 
