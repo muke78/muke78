@@ -49,20 +49,24 @@ Mi interes por la tecnología me impulsa a aprender y superar mis propios límit
 
 ```javascript
 let imagine = true;
-let sleep;
+let sleep = false;
+
+const programing = () => {
+  console.log("Programando...");
+};
+
+const create = () => {
+  console.log("Si puedes imaginarlo, puedes crearlo :)");
+};
 
 while (imagine) {
   programing();
   create();
 
-  if (sleep == true) {
-    imagine = false
+  if (sleep === true) {
+    imagine = false;
   }
 }
-
-const create = () => {
-  console.log("Si puedes imaginarlo puedes crearlo :)")
-};
 ```
 
 ## 📊 Github Stats
