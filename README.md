@@ -31,7 +31,7 @@
 
 ### Sobre mí
 
-Soy ingeniero en tecnologías de la información con 2 años de experiencia en desarrollo de **bases de datos, frontend y backend**.
+Soy ingeniero en tecnologías de la información con 2 años de experiencia en desarrollo de **bases de datos, frontend y backend**. 
 Me especializo en soluciones con **clean code** y he trabajado con metodologías ágiles como **DevOps** y **Scrum** para gestionar proyectos
 de software. Soy **autodidacta** y siempre estoy buscando nuevos desafíos para mejorar mis
 habilidades en desarrollo web y software.
@@ -43,13 +43,8 @@ Mi interes por la tecnología me impulsa a aprender y superar mis propios límit
 
 <div>
   <a href="https://portafolio-vercel-deploy.vercel.app/" target="_blank">
-    <div>
-      <a href="https://portafolio-vercel-deploy.vercel.app/" target="_blank" style="text-decoration: none;">
-        <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
-          Visita mi Portafolio
-        </button>
-      </a>
-    </div>
+    <img src="https://img.shields.io/badge/Visita%20mi%20portafolio-00C4CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Mi Portafolio" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  </a>
 </div>
 
 ## 📊 Github Stats
