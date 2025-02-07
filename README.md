@@ -31,7 +31,7 @@
 
 ### Sobre mí
 
-Soy ingeniero en tecnologías de la información con 2 años de experiencia en desarrollo de **bases de datos, frontend y backend**. 
+Soy ingeniero en tecnologías de la información con 2 años de experiencia en desarrollo de **bases de datos, frontend y backend**.
 Me especializo en soluciones con **clean code** y he trabajado con metodologías ágiles como **DevOps** y **Scrum** para gestionar proyectos
 de software. Soy **autodidacta** y siempre estoy buscando nuevos desafíos para mejorar mis
 habilidades en desarrollo web y software.
@@ -41,33 +41,17 @@ Mi interes por la tecnología me impulsa a aprender y superar mis propios límit
 
 ### Mi Portafolio
 
-<a href="https://portafolio-vercel-deploy.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Visita%20mi%20portafolio-00C4CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Mi Portafolio">
-</a>
-
-
-
-```javascript
-let imagine = true;
-let sleep = false;
-
-const programing = () => {
-  console.log("Programando...");
-};
-
-const create = () => {
-  console.log("Si puedes imaginarlo, puedes crearlo :)");
-};
-
-while (imagine) {
-  programing();
-  create();
-
-  if (sleep === true) {
-    imagine = false;
-  }
-}
-```
+<div>
+  <a href="https://portafolio-vercel-deploy.vercel.app/" target="_blank">
+    <div>
+      <a href="https://portafolio-vercel-deploy.vercel.app/" target="_blank" style="text-decoration: none;">
+        <button style="background-color:#242938; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
+          Visita mi Portafolio
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" width="25px" alt="Mi Portafolio">
+        </button>
+      </a>
+    </div>
+</div>
 
 ## 📊 Github Stats
 
