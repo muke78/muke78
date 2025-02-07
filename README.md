@@ -45,9 +45,8 @@ Mi interes por la tecnología me impulsa a aprender y superar mis propios límit
   <a href="https://portafolio-vercel-deploy.vercel.app/" target="_blank">
     <div>
       <a href="https://portafolio-vercel-deploy.vercel.app/" target="_blank" style="text-decoration: none;">
-        <button style="background-color:#242938; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
+        <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
           Visita mi Portafolio
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" width="25px" alt="Mi Portafolio">
         </button>
       </a>
     </div>
