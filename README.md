@@ -1,13 +1,4 @@
-<!-- Presentation -->
-
-[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Monserrat&size=24&pause=1000&color=919FFF&width=520&lines=Hola+%F0%9F%91%8B+soy+Erick+Desarrollador+Web+%F0%9F%92%BB;%E2%9D%84%EF%B8%8F%F0%9F%8E%A8;%3CLambda(%CE%BB)%2F%3E>)](https://git.io/typing-svg)
-
-<!-- GIF -->
-<!-- <div align="center">
-  <img src="/github-contribution-grid-snake-dark.svg" alt="Contributions" width="100%" />
-</div> -->
-
-<!-- Personal Quote -->
+# Hello there, I'm Erick 👋
 
 <!-- About Me -->
 <div  id="user-content-toc" style="margin-top: 20px; margin-bottom: 20px">
@@ -15,8 +6,8 @@
     <summary>
       <h2 style="display: inline-block">
         <i>
-          `Ten mucha paciencia contigo mismo y no te compares demasiado con los
-          demás`
+         `Be very patient with yourself and don't compare yourself too much with others.
+          others`
         </i>
       </h2>
     </summary>
@@ -25,31 +16,39 @@
     src="https://64.media.tumblr.com/cb1a6d28f1f97fe56c0764cdf40fc92c/d662df3b2e19bcdc-c5/s540x810/1d8b292967d40c6c00663f2ce51de270d366994c.gifv"
     alt="Pixel Art"
     align="right"
-    width="400"
-  />
+    width="180"
+<div/>
+
  <!-- Descripción personal con espaciado adecuado -->
 
-### Sobre mí
+I am an information technology engineer with 2 years of experience in **database, frontend and backend** development. 
+I specialize in solutions with **clean code** and have worked with agile methodologies such as **DevOps** and **Scrum** to manage projects
+of software. I am **self-taught** and I am always looking for new challenges to improve my skills.
+skills in web and software development.
+My interest in technology drives me to learn and constantly overcome my own limits.
 
-Soy ingeniero en tecnologías de la información con 2 años de experiencia en desarrollo de **bases de datos, frontend y backend**. 
-Me especializo en soluciones con **clean code** y he trabajado con metodologías ágiles como **DevOps** y **Scrum** para gestionar proyectos
-de software. Soy **autodidacta** y siempre estoy buscando nuevos desafíos para mejorar mis
-habilidades en desarrollo web y software.
-Mi interes por la tecnología me impulsa a aprender y superar mis propios límites constantemente.
+- 💻 I ~like~ **love** coding
+- 📗 I am currently learning backend and frontend development
+- 🔧 I am looking to collaborate on group and open source projects.
+- 🧑‍💻 I want to become a full-stack developer
 
-</div>
 
-### Mi Portafolio
+## My Portafolio
 
 <div>
   <a href="https://portafolio-vercel-deploy.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visita%20mi%20portafolio-00C4CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Mi Portafolio" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <img src="https://img.shields.io/badge/Visita%20mi%20portafolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Mi Portafolio" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   </a>
 </div>
 
 ## 📊 Github Stats
 
-<div align="center" style="display: flex; justify-content: center;">
-    <img height="195px" src='https://github-readme-stats.vercel.app/api?username=muke78&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false'/>
-    <img height="195px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=muke78&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact'/>
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muke78&layout=compact&langs_count=8&theme=radical"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muke78&layout=compact&langs_count=8&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muke78&layout=compact&langs_count=8" />
+</picture>
