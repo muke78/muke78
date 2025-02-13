@@ -6,8 +6,7 @@
     <summary>
       <h2 style="display: inline-block">
         <i>
-         `Be very patient with yourself and don't compare yourself too much with others.
-          others`
+         `Be very patient with yourself and don't compare yourself too much with others.`
         </i>
       </h2>
     </summary>
