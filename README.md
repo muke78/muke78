@@ -42,7 +42,7 @@ Mi interes por la tecnología me impulsa a aprender y superar mis propios límit
 ### Mi Portafolio
 
 <div>
-  <a href="https://portafolio-vercel-deploy.vercel.app/" target="_blank">
+  <a href="https://khelde.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visita%20mi%20portafolio-00C4CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Mi Portafolio" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   </a>
 </div>
