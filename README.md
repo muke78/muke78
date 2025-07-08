@@ -42,12 +42,16 @@ My interest in technology drives me to learn and constantly overcome my own limi
 
 ## 📊 Github Stats
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muke78&layout=compact&langs_count=8&theme=radical"
-    media="(prefers-color-scheme: dark)" />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muke78&layout=compact&langs_count=8&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muke78&layout=compact&langs_count=8" />
-</picture>
+<div style="display: flex; gap: 10px;">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muke78&layout=compact&langs_count=8&theme=radical"
+      media="(prefers-color-scheme: dark)" />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muke78&layout=compact&langs_count=8&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muke78&layout=compact&langs_count=8" />
+  </picture>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=muke78&theme=radical&hide_border=false" />
+</div>
