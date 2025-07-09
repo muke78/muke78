@@ -52,7 +52,7 @@ My interest in technology drives me to learn and constantly overcome my own limi
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=muke78&layout=compact&langs_count=8"
     alt="Lenguajes más usados por muke78"
-    width="100%" />
+    width="70%" />
 </picture>
 
 ---
@@ -62,7 +62,7 @@ My interest in technology drives me to learn and constantly overcome my own limi
 <img
   src="https://nirzak-streak-stats.vercel.app/?user=muke78&theme=radical&hide_border=false"
   alt="GitHub Streak de muke78"
-  width="100%" />
+  width="70%" />
 
 ---
 
@@ -71,7 +71,7 @@ My interest in technology drives me to learn and constantly overcome my own limi
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muke78&theme=radical"
   alt="Resumen del perfil de GitHub de muke78"
-  width="100%" />
+  width="70%" />
 
 ---
 
