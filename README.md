@@ -40,7 +40,7 @@ My interest in technology drives me to learn and constantly overcome my own limi
   </a>
 </div>
 
-## 📊 Lenguajes Más Usados
+## 📊 Most Used Languages
 
 <picture>
   <source
@@ -57,7 +57,7 @@ My interest in technology drives me to learn and constantly overcome my own limi
 
 ---
 
-## 🔥 Racha de Contribuciones
+## 🔥 Contribution Streak
 
 <img
   src="https://nirzak-streak-stats.vercel.app/?user=muke78&theme=radical&hide_border=false"
@@ -66,7 +66,7 @@ My interest in technology drives me to learn and constantly overcome my own limi
 
 ---
 
-## 📋 Resumen del Perfil
+## 📋 Profile Summary
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muke78&theme=radical"
@@ -75,7 +75,7 @@ My interest in technology drives me to learn and constantly overcome my own limi
 
 ---
 
-## 📈 Gráfico de Actividad
+## 📈 Activity Chart
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
