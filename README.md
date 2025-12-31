@@ -12,10 +12,10 @@
     </summary>
   </ul>
   <img
-    src="https://64.media.tumblr.com/cb1a6d28f1f97fe56c0764cdf40fc92c/d662df3b2e19bcdc-c5/s540x810/1d8b292967d40c6c00663f2ce51de270d366994c.gifv"
-    alt="Pixel Art"
+    src="https://i.pinimg.com/736x/a8/58/47/a85847abccfa9eb0f3610318759aa0ff.jpg"
+    alt="I don't know"
     align="right"
-    width="400"
+    width="500"
 <div/>
 
  <!-- Descripción personal con espaciado adecuado -->
