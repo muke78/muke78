@@ -26,10 +26,12 @@ of software. I am **self-taught** and I am always looking for new challenges to 
 skills in web and software development.
 My interest in technology drives me to learn and constantly overcome my own limits.
 
-- 💻 I ~like~ **love** coding
-- 📗 I am currently learning backend and frontend development
-- 🔧 I am looking to collaborate on group and open source projects.
-- 🧑‍💻 I want to become a full-stack developer
+- 🔭 I am currently working independently to consolidate my knowledge.
+- 👯 In any project to learn and overcome my limits
+- 🤝 Helping others helps me to excel and move forward
+- 🌱 I am currently learning to be a middle or senior developer with good practices and clean code.
+- 💬 I’m available for any project or job.
+- ⚡ Rubik’s Cube Skill
 
 
 ## 🎨 My Portafolio
