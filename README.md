@@ -25,7 +25,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Desarrollador Full-Stack con **3 años de experiencia** diseñando y entregando soluciones empresariales (ERP, CRM y sistemas de gestión). Me enfoco en software de alto rendimiento, buenas prácticas de arquitectura (**Hexagonal, Clean Architecture, SOLID, MVC**) y en la optimización de sistemas y bases de datos. Autodidacta, con experiencia en equipos multidisciplinarios, metodologías ágiles y liderazgo técnico.
+Desarrollador Full-Stack con **más de 4 años de experiencia** diseñando y entregando soluciones empresariales (ERP, CRM y sistemas de gestión). Me enfoco en software de alto rendimiento, buenas prácticas de arquitectura (**Hexagonal, Clean Architecture, SOLID, MVC**) y en la optimización de sistemas y bases de datos. Autodidacta, con experiencia en equipos multidisciplinarios, metodologías ágiles y liderazgo técnico.
 
 - 🔭 Actualmente trabajo como desarrollador Full-Stack en una empresa, construyendo productos web completos.
 - 🌱 Creciendo hacia un perfil semi-senior / senior con código limpio y arquitectura sólida.
