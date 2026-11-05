@@ -27,7 +27,7 @@
 
 Desarrollador Full-Stack con **3 años de experiencia** diseñando y entregando soluciones empresariales (ERP, CRM y sistemas de gestión). Me enfoco en software de alto rendimiento, buenas prácticas de arquitectura (**Hexagonal, Clean Architecture, SOLID, MVC**) y en la optimización de sistemas y bases de datos. Autodidacta, con experiencia en equipos multidisciplinarios, metodologías ágiles y liderazgo técnico.
 
-- 🔭 Actualmente trabajo de forma independiente (freelance) construyendo productos web completos.
+- 🔭 Actualmente trabajo como desarrollador Full-Stack en una empresa, construyendo productos web completos.
 - 🌱 Creciendo hacia un perfil semi-senior / senior con código limpio y arquitectura sólida.
 - 🤝 Disponible para proyectos y oportunidades laborales.
 - ⚡ Fan del cubo Rubik.
@@ -62,12 +62,12 @@ Desarrollador Full-Stack con **3 años de experiencia** diseñando y entregando 
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=muke78&theme=radical&hide_border=true" alt="Racha de contribuciones de muke78" width="80%" />
+  <img src="https://streak-stats.demolab.com/?user=muke78&theme=radical&hide_border=true&card_width=700" alt="Racha de contribuciones de muke78" width="700" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muke78&theme=radical" alt="Resumen del perfil de muke78" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muke78&theme=radical" alt="Lenguajes con más commits de muke78" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muke78&theme=radical" alt="Estadísticas de GitHub de muke78" width="348" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muke78&theme=radical" alt="Lenguajes con más commits de muke78" width="348" />
 </p>
 
 ---
