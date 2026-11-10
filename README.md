@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portafolio.erickm-gonzalez-rivera.workers.dev/es/home" target="_blank">
+  <a href="https://www.khelde.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-0d1117?style=for-the-badge&logo=astro&logoColor=white" alt="Portafolio" />
   </a>
   <a href="https://www.linkedin.com/in/erick-miguel-gonz%C3%A1lez-rivera-96265b248/" target="_blank">
@@ -51,7 +51,7 @@ Desarrollador Full-Stack con **más de 4 años de experiencia** diseñando y ent
 | **Nov 2023 – Jul 2024** | Full-Stack · **RIMAC (ICBA México)** | App de gestión de riesgos crediticios; +30% de rendimiento en Aurora MySQL, infraestructura en AWS. |
 | **Ene – Nov 2023** | Full-Stack · **Grupo Constructor Pirámide** | ERP de gestión de obra; migración a SQL Server y reportes en Power BI. |
 
-> 📄 El detalle completo de mi trayectoria, proyectos y CV está en mi [portafolio](https://portafolio.erickm-gonzalez-rivera.workers.dev/es/home).
+> 📄 El detalle completo de mi trayectoria, proyectos y CV está en mi [portafolio](https://www.khelde.dev).
 
 ## 🎓 Educación
 
@@ -73,5 +73,5 @@ Desarrollador Full-Stack con **más de 4 años de experiencia** diseñando y ent
 ---
 
 <p align="center">
-  <i>¿Tienes un proyecto en mente? <a href="https://portafolio.erickm-gonzalez-rivera.workers.dev/es/home#contact">Hablemos</a>.</i>
+  <i>¿Tienes un proyecto en mente? <a href="https://www.khelde.dev/es/home#contact">Hablemos</a>.</i>
 </p>
